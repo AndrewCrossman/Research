@@ -1,0 +1,44 @@
+ General fit parameter settings : 
+   Title            : PdAu XRD Fit
+            
+   Fit function     : not defined
+   Data file name   : RMC_Coreshell5050_PdAu_on_Au_1-10-10/1-10.xrd
+   # of data pts.   :   8692
+   # of parameters  :      9
+   lamda: s,d,u     :    0.0010    0.5000    4.0000
+   Max. cycle       :     30
+   MFEN for maxima  :      5
+   Weighting scheme : w(i) = 1.0/i
+
+   Convergence 1    : dP/sigma < AND conf > AND      dChi^2 <
+                       0.500E-002       2.00           0.100E-004
+   Convergence 2    : dChi^2 <   AND dP/simg > 0.0           
+                       0.100E-004
+   Convergence 3    : Chi^2 <                                
+                       0.100E-005
+
+ Information about the fit : 
+   Chi^2      :   619.567          Chi^2/N :  0.712801E-01
+   Conf. level:   1.00000      Chi^2/(N-P) :  0.713130E-01
+   No.Data    :         8692     No.Params:            4
+   MRQ final  :  0.100000E-02
+   wR value   :  0.845674          R exp   :   3.16679    
+
+ Correlations larger than 0.8 :
+   ** none **
+  
+ Fitted  1 double peak Pseudo-Voigt(s) : 
+
+   p( 1) : backgr. 1 :   0.00000     +-   0.00000        pinc : 0.
+   p( 2) : backgr. 2 :   0.00000     +-   0.00000        pinc : 0.
+
+ Pseudo-Voigt :   1
+
+   p( 3) : eta       : -0.419640E-03 +-  0.567315E-03    pinc : 1.
+   p( 4) : int. Inten:   1.70307     +-  0.108439        pinc : 1.
+   p( 5) : position  :   38.5546     +-  0.116421        pinc : 1.
+   p( 6) : fwhm      :   4.29688     +-  0.278599        pinc : 1.
+   p( 7) : asymmetry1:   0.00000     +-   0.00000        pinc : 0.
+   p( 8) : asymmetry2:   0.00000     +-   0.00000        pinc : 0.
+   p( 9) : Int2/Int1 :  0.500000     +-   0.00000        pinc : 0.
+  
